@@ -1,6 +1,6 @@
 # Table of contents
 
-* [건축가를 위한 프로그래밍](README.md)
+* [Programming for Architects](README.md)
 
 ## Maps
 

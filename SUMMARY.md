@@ -2,19 +2,19 @@
 
 * [Initial page](README.md)
 
-## Maps <a id="undefined"></a>
+## Maps
 
-* [Untitled](undefined/untitled.md)
+* [Untitled](maps/untitled.md)
 
-## Diagrams <a id="undefined-1"></a>
+## Diagrams
 
-* [Untitled](undefined-1/untitled.md)
+* [Untitled](diagrams/untitled.md)
 
-## Forms <a id="undefined-2"></a>
+## Forms
 
-* [Untitled](undefined-2/untitled.md)
+* [Untitled](forms/untitled.md)
 
-## Data Analysis <a id="undefined-3"></a>
+## Data Analysis
 
-* [Untitled](undefined-3/untitled.md)
+* [Untitled](data-analysis/untitled.md)
 

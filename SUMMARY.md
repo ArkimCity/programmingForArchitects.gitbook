@@ -4,7 +4,7 @@
 
 ## Maps
 
-* [Untitled](maps/untitled.md)
+* [01.Google GeoCode API](maps/01.google-geocode-api.md)
 
 ## Diagrams
 
@@ -16,6 +16,5 @@
 
 ## Data Analysis
 
-* [01.Google GeoCode API](data-analysis/01.google-geocode-api.md)
-* [02.Data Crawling Jsoup](data-analysis/02.data_crawling_jsoup.md)
+* [01.Data Crawling Jsoup](data-analysis/01.data_crawling_jsoup.md)
 

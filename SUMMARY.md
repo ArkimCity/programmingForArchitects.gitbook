@@ -2,6 +2,12 @@
 
 * [Programming for Architects](README.md)
 
+## Development
+
+* [0.튜토리얼만 방금 마친 당신에게](development/0.for-those-just-finished-tutorials/README.md)
+  * [01.Design Patterns](development/0.for-those-just-finished-tutorials/01.design-patterns.md)
+  * [02.Frameworks](development/0.for-those-just-finished-tutorials/02.frameworks.md)
+
 ## Maps
 
 * [01.Google GeoCode API](maps/01.google-geocode-api.md)

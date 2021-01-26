@@ -10,7 +10,9 @@ description: 건축을 공부하며 유용할 코딩 관련 정보를 스스로 
 
 제가 얼마전까지 겪었던 답답함을 이 글을 보는 다른 사람들도 해소할 수 있기를 바라며 계속 만들어나갈 공간이 되고자 합니다. 
 
-내용들을 보기 전에 Java, Javasript, Python 등의 기본 문법이 필요할 수 있습니다
+내용들을 보기 전에 Java, Javasript, Python 등의 기본 문법이 필요할 수 있습니다. 
+
+\(3D 프로그램을 사용하게 될 경우 rhino와 그 안의 grasshopper를 주로 사용할 예정입니다.\)
 
 ## Address of the Author
 

@@ -2,6 +2,13 @@
 
 * [Programming for Architects](README.md)
 
+## Development
+
+* [0.튜토리얼만 방금 마친 당신에게](development/0.for-those-just-finished-tutorials/README.md)
+  * [00.Habbits](development/0.for-those-just-finished-tutorials/00.habbits.md)
+  * [01.Design Patterns](development/0.for-those-just-finished-tutorials/01.design-patterns.md)
+  * [02.Frameworks](development/0.for-those-just-finished-tutorials/02.frameworks.md)
+
 ## Maps
 
 * [01.Lattitude and Longtitude](maps/01.lattitude-and-longtitude/README.md)
@@ -27,11 +34,4 @@
 ## Data Analysis
 
 * [01.Data Crawling Jsoup](data-analysis/01.data_crawling_jsoup.md)
-
-## Development
-
-* [0.튜토리얼만 방금 마친 당신에게](development/0.for-those-just-finished-tutorials/README.md)
-  * [01.Design Patterns](development/0.for-those-just-finished-tutorials/01.design-patterns/README.md)
-    * [Untitled](development/0.for-those-just-finished-tutorials/01.design-patterns/untitled.md)
-  * [02.Frameworks](development/0.for-those-just-finished-tutorials/02.frameworks.md)
 

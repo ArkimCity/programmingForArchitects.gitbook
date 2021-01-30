@@ -4,10 +4,10 @@
 
 ## Development
 
-* [0.튜토리얼만 방금 마친 당신에게](development/0.for-those-just-finished-tutorials/README.md)
-  * [00.Habbits](development/0.for-those-just-finished-tutorials/00.habbits.md)
-  * [01.Design Patterns](development/0.for-those-just-finished-tutorials/01.design-patterns.md)
-  * [02.Frameworks](development/0.for-those-just-finished-tutorials/02.frameworks.md)
+* [0.After Tutorials](development/0.after-tutorials/README.md)
+  * [00.Habbits](development/0.after-tutorials/00.habbits.md)
+  * [01.Design Patterns](development/0.after-tutorials/01.design-patterns.md)
+  * [02.Frameworks](development/0.after-tutorials/02.frameworks.md)
 
 ## Maps
 

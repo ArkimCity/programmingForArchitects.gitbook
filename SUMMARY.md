@@ -7,7 +7,6 @@
 * [0.After Tutorials](development/0.after-tutorials/README.md)
   * [00.Habbits](development/0.after-tutorials/00.habbits.md)
   * [01.Design Patterns](development/0.after-tutorials/01.design-patterns.md)
-  * [02.Frameworks](development/0.after-tutorials/02.frameworks.md)
 
 ## Maps
 
